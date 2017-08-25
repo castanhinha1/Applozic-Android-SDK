@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\mobicomkit\build\intermediates\bundles\default\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4604f46bdb50e47d0311f5e04f6612fb1cfbd0d8">
+        <dex dex="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.eclipse.paho.android.service-1.0.2_f575edb6ab5627d55be84dc4da47e2e22fed9097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dylan Castanhinha\.android\build-cache\f0c8238938720b20a71cd161dc31ad74db6a1a08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3c19e37bfb7e4906fe92c57302df049bdb56430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_337ef4fa168e507c60c42003a3a90cc7a722a9d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c200c9f0941ee23aa1dada88344818e277a53fbb">
+        <dex dex="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c22c282fce0ca6e3e254e2b4119db20d720ad0d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\mobicomkit\build\intermediates\bundles\default\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3a0d4d7493bf9cee83f80276b08d955adf31d5">
+        <dex dex="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.eclipse.paho.client.mqttv3-1.0.2_34e29ebcad1b33e713d9f9b00953c26e0688adee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dylan Castanhinha\.android\build-cache\4ae279887f5b7276cf679f62b3606c2da348758d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="C:\Users\Dylan Castanhinha\Documents\Applozic-Android-SDK\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1973f7f685e4d77a23205863c6f18928f48506f1\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

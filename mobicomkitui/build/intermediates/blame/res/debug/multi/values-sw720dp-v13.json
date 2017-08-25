@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 55,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 52,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 52,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 48,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 48,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 38,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 38,
+                        "endOffset": 334
+                    }
+                }
+            }
+        ]
+    }
+]

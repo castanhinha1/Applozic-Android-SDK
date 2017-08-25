@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">185947318930-hloccet2o10bcjjj3828bo5hrcv0384s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chatsdk-77769.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">185947318930</string>
+    <string name="google_api_key" translatable="false">AIzaSyDssSqwfXhFmQBkGth0u-DjLF2gO6_WBzo</string>
+    <string name="google_app_id" translatable="false">1:185947318930:android:24f945dd9ea2fe26</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDssSqwfXhFmQBkGth0u-DjLF2gO6_WBzo</string>
+    <string name="google_storage_bucket" translatable="false">chatsdk-77769.appspot.com</string>
+</resources>

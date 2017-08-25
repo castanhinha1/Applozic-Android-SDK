@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\applozic_provider_paths.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\xml\\applozic_provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\searchable_contacts.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\xml\\searchable_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\mimetypes.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\xml\\mimetypes.xml"
+    }
+]

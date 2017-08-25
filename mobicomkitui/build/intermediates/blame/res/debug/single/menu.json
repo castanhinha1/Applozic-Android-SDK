@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\mobicom_basic_menu_for_normal_message.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\menu_contact.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\menu\\menu_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\attachment_menu.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\menu\\attachment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\mobicom_main_menu.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\menu\\mobicom_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\channel_menu_option.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\menu\\channel_menu_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\group_create_menu.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\src\\main\\res\\menu\\group_create_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\701ec973bd9375236dc7dfc2969796b8458212ad\\output\\res\\menu\\crop_image_menu.xml"
+    }
+]

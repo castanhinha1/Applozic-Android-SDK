@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\contact_list_fragment.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\default\\res\\layout-land\\contact_list_fragment.xml"
+    }
+]

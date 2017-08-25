@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_time.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_audio_mic_inverted.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_audio_mic_inverted.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_mobicom.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_mobicom.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\crop_image_menu_rotate_left.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\701ec973bd9375236dc7dfc2969796b8458212ad\\output\\res\\drawable-xxhdpi-v4\\crop_image_menu_rotate_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_call_holo_light.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_call_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_ic_action_send.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_ic_action_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_mode_edit_white.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_mode_edit_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_chat.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_new_attachment.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_new_attachment.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_group_icon.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_group_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_camera_new.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_camera_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_ic_delete_white_18dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_ic_delete_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_highlight_remove.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_highlight_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_play_circle_outline.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_play_circle_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\circle_arrow_down_download.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\circle_arrow_down_download.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_message_delivered.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_message_delivered.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\8cdfc2c38a14f982c0e4fd21c714ffc8a84860a5\\output\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\6ff0eed05dd02ebf32c05d20b865dbc24389f073\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_map_offline_thumbnail.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_map_offline_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_image_photo_album.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_image_photo_album.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_pause_circle_outline.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_pause_circle_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_message_read.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_message_read.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_message_sent.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_message_sent.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_person_add_white.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_person_add_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_add.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_notification_location_icon.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_notification_location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\8cdfc2c38a14f982c0e4fd21c714ffc8a84860a5\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_forward.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\8cdfc2c38a14f982c0e4fd21c714ffc8a84860a5\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\slide_left.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\slide_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\input.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\input.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_camera.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_video.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_chat_left_icon.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_chat_left_icon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_audio_normal.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_audio_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_googleplay.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_googleplay.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_audio_record.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_audio_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_communication_call_missed.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_communication_call_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_message_pending.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_message_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\6ff0eed05dd02ebf32c05d20b865dbc24389f073\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_image_camera_alt.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_image_camera_alt.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\circle_arrow_upload.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\circle_arrow_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\crop_image_menu_rotate_right.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\701ec973bd9375236dc7dfc2969796b8458212ad\\output\\res\\drawable-xxhdpi-v4\\crop_image_menu_rotate_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\cancel_icon.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_my_location_white_18dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_my_location_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_attachment.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_attachment.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_social_share.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_social_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_search.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_social_forward.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_social_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_emoticons_icon.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_emoticons_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_social_reply.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_social_reply.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_receive_message_bubble.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_receive_message_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\8cdfc2c38a14f982c0e4fd21c714ffc8a84860a5\\output\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_person_white.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_person_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_attachment_file.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_attachment_file.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_ic_action_send_now.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_facebook.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\crop_image_menu_flip.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\701ec973bd9375236dc7dfc2969796b8458212ad\\output\\res\\drawable-xxhdpi-v4\\crop_image_menu_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\aplozic_ic_action_go_to_today.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\aplozic_ic_action_go_to_today.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_phone_missed_white_24dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_phone_missed_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_message_schedule.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_message_schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_music_note.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_music_note.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_videocam_white_24px.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_videocam_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\slidearrow.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\slidearrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_documentreceive.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_documentreceive.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_google_plus.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_google_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_applozic_broadcast.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_applozic_broadcast.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\8cdfc2c38a14f982c0e4fd21c714ffc8a84860a5\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mobicom_ic_launcher.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mobicom_ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_sent_message_bubble.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_sent_message_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_call.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_location_on_white_24dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_location_on_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_mic_pressed.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_mic_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\8cdfc2c38a14f982c0e4fd21c714ffc8a84860a5\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_audio_delete.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_audio_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\e80b3348a67f0681826205a751faa18245259ece\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\applozic_ic_action_cancel.png",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\applozic_ic_action_cancel.png"
+    }
+]

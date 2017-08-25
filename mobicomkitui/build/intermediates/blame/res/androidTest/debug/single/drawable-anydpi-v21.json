@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\ic_phone_missed_white_24dp.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\ic_phone_missed_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\ic_videocam_white_24px.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\ic_videocam_white_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\6ff0eed05dd02ebf32c05d20b865dbc24389f073\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dylan Castanhinha\\Documents\\Applozic-Android-SDK\\mobicomkitui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Dylan Castanhinha\\.android\\build-cache\\6ff0eed05dd02ebf32c05d20b865dbc24389f073\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]
